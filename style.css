@@ -1,0 +1,14 @@
+.render {
+  height: 500px;
+  width: 500px;
+  border: solid 2px black;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#numero {
+  width: 100px;
+  border: solid 1px orchid;
+  margin: 0 auto;
+}
