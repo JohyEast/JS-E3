@@ -1,10 +1,11 @@
 .render {
-  height: 500px;
+  height: 550px;
   width: 500px;
   border: solid 2px black;
   margin: 0 auto;
   text-align: center;
   font-family: "Courier New", Courier, monospace;
+  border-radius: 5px;
 }
 
 #numero {
